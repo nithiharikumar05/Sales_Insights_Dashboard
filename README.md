@@ -81,3 +81,11 @@ Implement Forecasting using Power BI predictive tools.
 Automate daily data refresh with Power BI Gateway.
 
 Add drill-through pages for individual customer/product analysis.
+
+
+<img width="1920" height="1008" alt="Sales Overview" src="https://github.com/user-attachments/assets/e02820f9-e860-4138-aa56-8b258ccb34a1" />
+<img width="1920" height="1008" alt="Product Details" src="https://github.com/user-attachments/assets/e4a2c6b5-5923-49b9-b353-58606c88218b" />
+<img width="1920" height="1008" alt="Customers Details" src="https://github.com/user-attachments/assets/6252fc9c-ddfa-404e-b353-910c962e55f9" />
+
+
+
